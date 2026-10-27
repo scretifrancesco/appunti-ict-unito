@@ -10,6 +10,13 @@
 
 Gli appunti non intendono sostituire in alcun modo le lezioni frontali, anche se ho cercato di renderli quanto più possibile corretti, completi e comprensibili. 
 
+## Come scaricare gli appunti
+
+1. Cerca il corso nella tabella qui sotto e guarda la sigla.
+2. Clicca sulla sigla per aprire la cartella del corso.
+3. Clicca sul file `appunti_SIGLA.pdf`.
+4. Scaricalo con il pulsante di download (la freccia verso il basso) in alto a destra.
+
 ## Corsi
 
 Ogni corso ha la propria cartella, con il PDF degli appunti.
