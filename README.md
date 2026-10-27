@@ -37,7 +37,7 @@ Ogni corso ha la propria cartella, con il PDF degli appunti.
 
 ## Segnalare un errore
 
-Se trovi un errore o un passaggio poco chiaro, apri una segnalazione nella sezione [Issues](../../issues) indicando corso, pagina e problema.
+Se trovi un errore o un passaggio poco chiaro, apri una segnalazione nella sezione [Issues](https://github.com/scretifrancesco/appunti-ict-unito/issues) indicando corso, pagina e problema.
 
 ## Licenza
 
