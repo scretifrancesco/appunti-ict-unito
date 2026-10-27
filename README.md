@@ -4,7 +4,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/scretifrancesco/appunti-ict-unito?style=social)](https://github.com/scretifrancesco/appunti-ict-unito/stargazers)
 [![contributors](https://img.shields.io/github/contributors/scretifrancesco/appunti-ict-unito)](https://github.com/scretifrancesco/appunti-ict-unito/graphs/contributors)
 
-Appunti liberi e gratuiti dei corsi della laurea triennale in Innovazione Sociale, Comunicazione e Nuove Tecnologie (ICT) dell'Università degli Studi di Torino, scritti da Francesco Screti (me stesso) in LaTeX e disponibili in PDF.
+Appunti liberi, gratuiti e sperabilmente completi dei corsi della laurea triennale in Innovazione Sociale, Comunicazione e Nuove Tecnologie (ICT) dell'Università degli Studi di Torino, scritti da Francesco Screti (me stesso) in LaTeX e disponibili in PDF.
 
 ## Disclaimer
 
