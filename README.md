@@ -4,7 +4,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/scretifrancesco/appunti-ict-unito?style=social)](https://github.com/scretifrancesco/appunti-ict-unito/stargazers)
 [![contributors](https://img.shields.io/github/contributors/scretifrancesco/appunti-ict-unito)](https://github.com/scretifrancesco/appunti-ict-unito/graphs/contributors)
 
-<p align="justify">Ho frequentato il corso di laurea triennale in Innovazione Sociale, Comunicazione e Nuove Tecnologie (ICT) dell'Università degli Studi di Torino dal 2023 al 2026, laureandomi con 110 e lode (piccolo flex). Qui trovate gli appunti, sperabilmente completi, di alcuni dei corsi, scritti da me (Francesco Screti) in LaTeX e resi disponibili in PDF per chiunque ne abbia bisogno.</p>
+<p align="justify">Ho frequentato il corso di laurea triennale in Innovazione Sociale, Comunicazione e Nuove Tecnologie (ICT) dell'Università degli Studi di Torino dal 2023 al 2026. Qui trovate gli appunti, sperabilmente completi, di alcuni dei corsi, scritti da me (Francesco Screti) in LaTeX e resi disponibili in PDF per chiunque ne abbia bisogno.</p>
 
 ## Disclaimer
 
