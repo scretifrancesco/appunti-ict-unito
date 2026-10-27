@@ -35,8 +35,3 @@ Se trovi un errore o un passaggio poco chiaro, apri una segnalazione nella sezio
 ## Licenza
 
 Gli appunti sono distribuiti con licenza [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.it). Puoi condividerli e modificarli citando l'autore, senza usarli a fini commerciali e ridistribuendo eventuali modifiche con la stessa licenza.
-
-
-
-
-
