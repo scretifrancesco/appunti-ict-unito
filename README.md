@@ -30,7 +30,7 @@ Ogni corso ha la propria cartella, con il PDF degli appunti.
 | [EGIMB](EGIMB) | Economia e Gestione delle Imprese e dei Modelli di Business |
 | [EBDDM](EBDDM) | Elementi di Basi di Dati e Data Mining |
 | [INFGIU](INFGIU) | Informatica Giuridica |
-| [IxD](IxD) | Interaction Design |
+| [IxD](IxD) | Introduzione a Interaction Design |
 | [MKT](MKT) | Marketing |
 | [POLFILTEC](POLFILTEC) | Politica, Filosofia, Tecnologia |
 | [SNM](SNM) | Sociologia dei New Media |
